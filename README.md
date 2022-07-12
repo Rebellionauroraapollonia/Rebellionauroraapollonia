@@ -1,7 +1,7 @@
    ![Header](https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/088F8FEB-C4F7-42AA-86ED-696F40FCCA01.gif)
 
 <h1 align="center">
-  <b>Rebellionaurora'apollonia#5644</b>
+  <b>1Rebellionaurora'apollonia#5644</b>
 </h1>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/:867726711578689536)](https://discord.com/users/:867726711578689536)
