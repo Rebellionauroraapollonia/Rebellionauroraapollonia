@@ -35,7 +35,7 @@ class Rebellionauroraapollonia():
     return self.name
 
 if __name__ == '__main__':
-    me = Rebellionaurora'apollonia()
+    me = Rebellionauroraapollonia()
 ```
 
 ```python
