@@ -8,8 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en" alt="rebellionauroraapollonia" /></p>
 
-https://img.shields.io/discord/996380044291223632
-
 <br>
 
 # Languages and Tools
