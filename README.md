@@ -72,3 +72,5 @@ I軌襴暹 甯幗緲fi'　　 緲',纜　　贒i綟碕碚爺綴｡ ”'罨皴
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hdishdd3dvlc3z7zfqkpahshra&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hdishdd3dvlc3z7zfqkpahshra&redirect=true)
