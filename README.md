@@ -23,7 +23,7 @@
 class Rebellionaurora'apollonia():
     
   def __init__(self):
-    self.name = "Rebellionaurora'apollonia"
+    self.website = "https://Rebellionauroraapollonia.netlify.app"
     self.username = "Rebellionaurora'apollonia"
     self.location = "Russia, Moskow"
     self.discord = "Rebellionaurora'apollonia#5644"
