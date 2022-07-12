@@ -20,7 +20,7 @@
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
 ```python
-class Rebellionaurora'apollonia():
+class Rebellionauroraapollonia():
     
   def __init__(self):
     self.website = "https://Rebellionauroraapollonia.netlify.app"
