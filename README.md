@@ -4,6 +4,8 @@
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:867726711578689536)](https://discord.com/users/:867726711578689536)
+
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
 <br>
