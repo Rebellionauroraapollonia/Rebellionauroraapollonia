@@ -4,7 +4,7 @@
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
 
-## Hey! My name is Rebellionaurora'apollonia, I'm a social media bot and website developer.
+## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
 <br>
 
@@ -20,20 +20,20 @@
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
 ```python
-class eloquence():
+class Rebellionaurora'apollonia():
     
   def __init__(self):
-    self.name = "Chumakov"
-    self.username = "eloquence"
+    self.name = "Rebellionaurora'apollonia"
+    self.username = "Rebellionaurora'apollonia"
     self.location = "Russia, Moskow"
-    self.discord = "scammingpanic#4021"
-    self.telegram = "eloquence"
+    self.discord = "Rebellionaurora'apollonia#5644"
+    self.telegram = "Rebellionauroraapollonia"
 
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = eloquence()
+    me = Rebellionaurora'apollonia()
 ```
 
 ```python
