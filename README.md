@@ -9,7 +9,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en" alt="rebellionauroraapollonia" /></p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=ffdf2b&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)
+<img src="[https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)" alt="discord profile" width="45%" align="right"/>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)
 
 <br>
 
