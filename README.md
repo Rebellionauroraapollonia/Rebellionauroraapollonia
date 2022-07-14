@@ -17,13 +17,11 @@
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en&theme=midnight-purple&custom_title=Rebellionaurora'apollonia GitHub Stats&layout=compact">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)
 
 <br clear="left"/>
-
 <br>
 
 # Languages and Tools
@@ -36,6 +34,8 @@
 ![NPM](https://shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellionauroraapollonia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```python
 class Rebellionauroraapollonia():
