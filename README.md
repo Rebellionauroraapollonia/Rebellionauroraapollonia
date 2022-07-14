@@ -1,17 +1,28 @@
-![Header](https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif)
+<p align="center">
+  <img src="https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
+</p>
 
 <h1 align="center">
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="https://vk.com/">Coming soon.</a> |
+  <a href="https://discord.com/users/867726711578689536">Дискорд</a> |
+  <a href="https://rebellionauroraapollonia.netlify.app">Веб-сайт</a>
+  <br><br>
+</p>
 
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en" alt="rebellionauroraapollonia" /></p>
 
-<img src="[https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)" alt="discord profile" width="45%" align="right"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)
+
+<br clear="left"/>
 
 <br>
 
