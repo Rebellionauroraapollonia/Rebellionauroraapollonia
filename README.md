@@ -35,7 +35,7 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellionauroraapollonia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellionauroraapollonia&layout=compact&locale=en&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ```python
 class Rebellionauroraapollonia():
