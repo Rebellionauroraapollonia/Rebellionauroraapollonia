@@ -8,7 +8,8 @@
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en" alt="rebellionauroraapollonia" /></p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:867726711578689536)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/867726711578689536)
 
 <br>
 
