@@ -4,11 +4,6 @@
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31hdishdd3dvlc3z7zfqkpahshra?si=2f8ece6f399b47e3">
-    <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)">
-  </a>
-</div>
 
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
