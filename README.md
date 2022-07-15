@@ -29,7 +29,7 @@
 ```mermaid
 erDiagram
     CODING ||--o{ applications : develop
-    CODING }|..|{ Im : this is
+    CODING }|..|{ Im : this 
     CODING ||--|{ Experience : contains
     CODING ||--|{ Users : purchase
     DATABASE ||--|{ Data : contains
