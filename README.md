@@ -24,6 +24,86 @@
 <br clear="left"/>
 <br>
 
+# My E-mail : rebellionauroraapollonia@gmail.com
+
+```mermaid
+erDiagram
+    CODING ||--o{ applications : develop
+    CODING }|..|{ Im : this is
+    CODING ||--|{ Experience : contains
+    CODING ||--|{ Users : purchase
+    DATABASE ||--|{ Data : contains
+    OTHER ||--|{ Data : contains
+    OTHER ||--|{ Tools : contains
+    Data ||--|{ Source : contains
+    applications ||--|{ Web : contains
+    applications ||--|{ Bots : contains
+    applications ||--|{ Design : containss
+```
+
+> **GAMING PC**  
+**CPU**   Intel Core i9-12900KF       
+**GPU**   GIGABYTE GeForce RTX 3080 GAMING OC   
+**PSU**   be quiet! STRAIGHT POWER 11 850W Gold       
+**RAM**   G.Skill Ripjaws V 32GB DDR4 (4400MHz)       
+**Case**   Fractal Design Meshify 2 Compact Black       
+**Cooling**   be quiet! Silent LOOP 2      
+**Motherboard**   MSI MAG Z690 TOMAHAWK WIFI DDR4        
+**SSD Windows**   Samsung 980 PRO 250GB         
+**SSD Games**   Kingston A2000 1TB         
+**SSD Work**   Kingston NV1 2TB  
+
+> STREAM PC  
+CPU   Intel Core i7-8700         
+GPU   MSI GeForce GTX 1070Ti GAMING
+PSU   NZXT C750 Gold
+RAM   Kingston FURY 32GB DDR4 (2666MHz)
+Case   NZXT H510 White
+Cooling   NZXT Kraken x53
+Motherboard   ASUS PRIME Z370-P
+SSD Windows   Samsung 960 EVO 250GB
+HDD Work   Seagate ST2000LM015 2.5 HDD 2TB
+
+Game Capture Card   AVerMedia Live Gamer DUO
+Camera Capture Card   Elgato Cam Link 4K
+
+
+DEVICES
+Monitor 34”   Acer Nitro XV340CKP (3440 x 1440 - 144Hz - IPS)
+Monitor 27”   Acer Nitro XV272UP (2560x1440 - 144Hz - IPS)
+Mouse   Logitech G Pro X Superlight
+Keyboard   Varmilo VA88M Charcoal MX Silent Red
+Headphone   beyerdynamic DT-770 Pro 80 Ohm
+
+Consoles   Playstation 4 PRO
+Smartphone   iPhone 12
+
+EQUIPMENT
+Microphone  RODE NT1 Kit
+Pantograph  RODE PSA1
+Audio Interface  TC Helicon GoXLR MINI
+Recorder  Zoom H1n
+Lapel Microphone  Rode Lavalier GO
+
+Camera  Sony ZV1
+Tripod  Sony VCT-VPR1
+Overhead Camera Mount  Elgato Multi Mount & Flex Arm
+Softbox  Godox SB-FW95
+Lights  Godox SL-60W
+RGB Light  LAOFAS Pocket RGB
+
+STUFF
+Mousepad  X-raypad Aqua Control+ (1000x500mm)
+Desk  ALEX & KARLBY & LINNMON
+Chair  Hator Apex
+Foot Warmer  Xiaomi Little Bear
+RGB Strip  Cololight STRIP Starter Kit | 60LEDs/M
+RGB Lights  Cololight HEXAGON PLUS Starter Kit
+Monitor Arm  VIVO STAND-V002R & VIVO STAND-V002K
+Wireless Charger  Samsung EP-N5200
+
+
+
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
