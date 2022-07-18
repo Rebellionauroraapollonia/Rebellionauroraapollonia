@@ -2,6 +2,8 @@
   <img src="https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EE204D&lines=+++++++1000-7+1000-7+1000-7+1000-7)](https://git.io/typing-svg)
+
 <h1 align="center">
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
@@ -75,17 +77,7 @@ if __name__ == '__main__':
     me = Rebellionauroraapollonia()
 ```
 
-# Top repo
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rebellionauroraapollonia&repo=Хуйня)](https://github.com/anuraghazra/github-readme-stats)
-
-# Test
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ты+тупой+блять...)](https://git.io/typing-svg)
-
-# Anime Arts
+#                
 
 ```python
 ___███████▀◢▆▅▃ 　　　   　　 　　　 ▀▀████ONII CHAN
