@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ты+тупой+блять...)](https://git.io/typing-svg)
 
 # Anime Arts
 
