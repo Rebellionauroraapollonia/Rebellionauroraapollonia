@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+
 
 # Anime Arts
 
