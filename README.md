@@ -75,6 +75,10 @@ if __name__ == '__main__':
     me = Rebellionauroraapollonia()
 ```
 
+# Top repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rebellionauroraapollonia&repo=Хуйня)](https://github.com/anuraghazra/github-readme-stats)
+
 # Test
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
