@@ -75,6 +75,12 @@ if __name__ == '__main__':
     me = Rebellionauroraapollonia()
 ```
 
+# Test
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+# Anime Arts
+
 ```python
 ___███████▀◢▆▅▃ 　　　   　　 　　　 ▀▀████ONII CHAN
 ___██████▌◢▀█▓▓█◣   　　　　　　▂▃▃　 ████onii chan
