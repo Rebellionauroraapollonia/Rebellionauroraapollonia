@@ -41,6 +41,10 @@ erDiagram
     applications ||--|{ Design : containss
 ```
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4998d5a676ec7c1dfbc1f0850fd43744d920d716aa83cfd4e29b3c8aa27261d0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a544b706572736f6e">
+</p>
+
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
