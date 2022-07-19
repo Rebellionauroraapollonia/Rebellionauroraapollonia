@@ -16,7 +16,6 @@
 
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en&theme=midnight-purple&layout=compact&custom_title=Rebellionaurora'apollonia GitHub Stats&layout=compact">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&align=right&hideDiscrim=false&borderRadius=30px&idleMessage=☄️⠀Probably%20doing%20something%20else...&hideStatus=true)](https://discord.com/users/867726711578689536)
