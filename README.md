@@ -2,8 +2,6 @@
   <img src="https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EE204D&lines=+++++++1000-7+1000-7+1000-7+1000-7)](https://git.io/typing-svg)
-
 <h1 align="center">
   <b>Rebellionaurora'apollonia#5644</b>
 </h1>
