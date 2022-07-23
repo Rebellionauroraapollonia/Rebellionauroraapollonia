@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Rebellionauroraapollonia/Rebellionauroraapollonia/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
+  <img src="https://github.com/Rebellionauroraapollonia/aka1tzrovee/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
 </p>
 
 <h1 align="center">
-  <b>Rebellionaurora'apollonia#5644</b>
+  <b>aka1tzrovee#5644</b>
 </h1>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ## Hello there! I am a self-taught programmer. I like to write bots for discord and telegram, develop websites and web applications. I've been developing for a year now. I'm learning Python, C# and JavaScript.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebellionauroraapollonia&show_icons=true&locale=en&theme=midnight-purple&layout=compact&custom_title=Rebellionaurora'apollonia GitHub Stats&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aka1tzrovee&show_icons=true&locale=en&theme=midnight-purple&layout=compact&custom_title=Rebellionaurora'apollonia GitHub Stats&layout=compact">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/867726711578689536?theme=dark&bg=36393E&animated=false&align=right&hideDiscrim=false&borderRadius=30px&idleMessage=☄️⠀Probably%20doing%20something%20else...&hideStatus=true)](https://discord.com/users/867726711578689536)
 
 <br clear="left"/>
 <br>
 
-# My E-mail : rebellionauroraapollonia@gmail.com
+# My E-mail : aka1tzrovee@gmail.com
 
 ```mermaid
 erDiagram
@@ -55,23 +55,23 @@ erDiagram
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellionauroraapollonia&layout=compact&locale=en&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka1tzrovee&layout=compact&locale=en&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ```python
-class Rebellionauroraapollonia():
+class aka1tzrovee():
     
   def __init__(self):
-    self.website = "https://Rebellionauroraapollonia.netlify.app"
-    self.username = "Rebellionaurora'apollonia"
+    self.website = "https://aka1tzrovee.netlify.app"
+    self.username = "aka1tzrovee"
     self.location = "Russian Federation, Moskow"
-    self.discord = "Rebellionaurora'apollonia#5644"
-    self.telegram = "Rebellionauroraapollonia"
+    self.discord = "aka1tzrovee#5644"
+    self.telegram = "aka1tzrovee"
 
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = Rebellionauroraapollonia()
+    me = aka1tzrovee()
 ```
 
 #                
