@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rebellionauroraapollonia/aka1tzrovee/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
+  <img src="https://github.com/aka1tzrovee/aka1tzrovee/blob/main/assets/331CEB6E-7E90-425C-9D93-833A457361D5.gif">
 </p>
 
 <h1 align="center">
