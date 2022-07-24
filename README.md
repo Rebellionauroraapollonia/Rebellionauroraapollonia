@@ -65,7 +65,7 @@ class aka1tzrovee?():
     self.username = "aka1tzrovee?"
     self.location = "Russian Federation, Moskow"
     self.discord = "aka1tzrovee?#5644"
-    self.telegram = "aka1tzrovee?"
+    self.telegram = "aka1tzrovee_me"
 
   def __str__(self):
     return self.name
