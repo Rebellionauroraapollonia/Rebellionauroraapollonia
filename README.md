@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-  <b>aka1tzrovee#5644</b>
+  <b>aka1tzrovee?#5644</b>
 </h1>
 
 <p align="center">
   <b>Some Links:</b><br>
   <a href="https://vk.com/">Coming soon.</a> |
   <a href="https://discord.com/users/867726711578689536">Дискорд</a> |
-  <a href="https://rebellionauroraapollonia.netlify.app">Веб-сайт</a>
+  <a href="https://aka1tzrovee.netlify.app">Веб-сайт</a>
   <br><br>
 </p>
 
@@ -58,20 +58,20 @@ erDiagram
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka1tzrovee&layout=compact&locale=en&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ```python
-class aka1tzrovee():
+class aka1tzrovee?():
     
   def __init__(self):
     self.website = "https://aka1tzrovee.netlify.app"
-    self.username = "aka1tzrovee"
+    self.username = "aka1tzrovee?"
     self.location = "Russian Federation, Moskow"
-    self.discord = "aka1tzrovee#5644"
-    self.telegram = "aka1tzrovee"
+    self.discord = "aka1tzrovee?#5644"
+    self.telegram = "aka1tzrovee?"
 
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = aka1tzrovee()
+    me = aka1tzrovee?()
 ```
 
 #                
